@@ -1,4 +1,4 @@
-# 📊 Advanced EDA & Feature Engineering Dashboard
+# EDA Engineering Dashboard
 
 An interactive, production-ready DataOps pipeline and Streamlit dashboard built to clean raw data, handle statistical anomalies, engineer high-impact business features, and visualize data trends instantly.
 
